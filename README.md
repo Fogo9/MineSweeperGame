@@ -250,7 +250,7 @@ public class MineSweeper1{
 
 # LINK
 
-* Click here https://github.com/Fogo9/PalindromicWords.git to access the Github page for this project.
+* Click here https://github.com/Fogo9/MineSweeperGame.git to access the Github page for this project.
 
 <br />
 

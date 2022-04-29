@@ -1,16 +1,14 @@
 # **MINE SWEEPER GAME**
 
-# Information
+## INFORMATION
 
 * **It is a virtual game where the user detonates mines by pressing the right place or surrenders with a flag sign by pressing the wrong places.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -248,13 +246,13 @@ public class MineSweeper1{
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/MineSweeperGame.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
